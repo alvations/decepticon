@@ -8,7 +8,7 @@
       <th align="left">Readings</th>
     </tr>
     <tr>
-      <td align="left">Neural Language Model</td>
+      <td align="left">Neural Language Model (Pre-2015)</td>
       <td align="left">
       <ul>
         <li>
@@ -39,7 +39,21 @@
       <td align="left">Word Embeddings</td>
       <td align="left">Too many to list... See https://github.com/alvations/vegetables</td>
     </tr>
-        
+    <tr>
+      <td align="left">Sequence to Sequence (Pre-Transformer)</td>
+      <td align="left">
+      <ul>
+        <li><a href=""></a></li>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Training Tricks</td>
+      <td align="left">
+      <ul>
+        <li><a href="https://www.aclweb.org/anthology/E17-2025.pdf">Tied Embeddings</a></li>
+      </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
   
