@@ -43,14 +43,14 @@
       <td align="left">Sequence to Sequence (Pre-Transformer)</td>
       <td align="left">
       <ul>
-        <li><a href=""></a></li>
+        <li><a href="https://www.aclweb.org/anthology/D13-1176.pdf">Kalchbrenner and Blunsom (2013)</a></li>
       </td>
     </tr>
     <tr>
       <td align="left">Training Tricks</td>
       <td align="left">
       <ul>
-        <li><a href="https://www.aclweb.org/anthology/E17-2025.pdf">Tied Embeddings</a></li>
+        <li><a href="https://www.aclweb.org/anthology/E17-2025.pdf">Tied Embeddings (Press and Wolf, 2017)</a></li>
       </ul>
       </td>
     </tr>
