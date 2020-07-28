@@ -52,7 +52,7 @@
         <li><a href="https://www.aclweb.org/anthology/D13-1176.pdf">Kalchbrenner and Blunsom (2013)</a></li>
         <li><a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al. (2014)</a></li>
         <li><a href="https://arxiv.org/abs/1409.0473">Bahdanau et al. (2015)</a></li>
-        <li><a href="https://research.google/pubs/pub45610/">GNMT (Wu et al. 2016)</a><li>
+        <li><a href="https://research.google/pubs/pub45610/">GNMT (Wu et al. 2016)</a></li>
       </ul>
       </td>
     </tr>
