@@ -36,21 +36,40 @@
       </td>
     </tr>
     <tr>
-      <td align="left">Word Embeddings</td>
-      <td align="left">Too many to list... See https://github.com/alvations/vegetables</td>
+      <td align="left">RNN Variants</td>
+      <td align="left">
+      <ul>
+        <li><a href="https://www2.informatik.uni-hamburg.de/wtm/ps/Alpay_ICANN_2016.pdf"></a>RNN Timescales variants (Alpay et al. 2016)</li>
+        <li><a href="https://arxiv.org/pdf/1503.04069.pdf"></a>LSTM Gates variants (Greff et al. 2015)</li>
+        <li><a href="https://arxiv.org/pdf/1603.08983.pdf">Active Computation Time (Graves, 2016)</a></li>
+      </ul>
+      </td>
     </tr>
     <tr>
       <td align="left">Sequence to Sequence (Pre-Transformer)</td>
       <td align="left">
       <ul>
         <li><a href="https://www.aclweb.org/anthology/D13-1176.pdf">Kalchbrenner and Blunsom (2013)</a></li>
+        <li><a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al. (2014)</a></li>
+        <li><a href="https://arxiv.org/abs/1409.0473">Bahdanau et al. (2015)</a></li>
+      </ul>
       </td>
     </tr>
+    <tr>
+      <td align="left">Transformers</td>
+      <td align="left">
+      <ul>
+        <li><a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need">Vaswani et al. (2017)</a></li>
+      </ul>
+      </td>
+    </tr>  
     <tr>
       <td align="left">Training Tricks</td>
       <td align="left">
       <ul>
         <li><a href="https://www.aclweb.org/anthology/E17-2025.pdf">Tied Embeddings (Press and Wolf, 2017)</a></li>
+        <li><a href="https://arxiv.org/abs/1512.03385">Residual Connection (He et al. 2015)</a></li>
+        <li><a href="https://arxiv.org/abs/1608.06993">Dense Connection (Huang et al. 2017)</a></li>
       </ul>
       </td>
     </tr>
